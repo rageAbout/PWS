@@ -45,3 +45,4 @@ response = conn.request("POST", 'http://hack.bckdr.in/2013-MISC-75/misc75.php', 
 response = conn.getresponse()
 text = response.read()
 print(text)
+#NAPRIMER
